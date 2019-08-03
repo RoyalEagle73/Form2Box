@@ -43,3 +43,7 @@
       Email-ID
       etc.
   Hence Phone Index of your form is 3.
+
+
+## SCREENSHOTS
+![Screenshots in wiki section](https://github.com/RoyalEagle73/Form2Box/wiki/SCREENSHOTS)
