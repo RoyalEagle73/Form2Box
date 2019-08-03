@@ -24,7 +24,7 @@
 
 ## Data needed :
 ### 1) GOOGLE FORM SPREADSHEET URL
-     Follow the following tutorial to collect Spreadsheet Url.
+    Follow the following tutorial to collect Spreadsheet Url.
 
 ![](https://user-images.githubusercontent.com/34307370/62410481-b15f8700-b5d5-11e9-911e-5c774134fc0a.gif)
 
