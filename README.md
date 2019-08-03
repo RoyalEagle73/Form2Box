@@ -1,4 +1,4 @@
-#               Form2Box              
+# ************* Form2Box ************* 
 ### A Simple Auto-Responder Script which send message to users who fill in your google form via SMS using Fast2Sms service.
 ### Fast2SMS is a paid service so you'll have to add balance to wallet periodically, where Fast2Sms charges 20p/sms.
 
