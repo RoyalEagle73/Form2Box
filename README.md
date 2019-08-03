@@ -2,6 +2,8 @@
 ### A Simple Auto-Responder Script which send message to users who fill in your google form via SMS using Fast2Sms service.
 ### Fast2SMS is a paid service so you'll have to add balance to wallet periodically, where Fast2Sms charges 20p/sms.
 
+
+
 ## FEATURES :
   1) Message is sent instantly.
   2) Message service is available between 9 AM to 9 PM, where all queries after 9 PM will be fulfilled next day in morning.
