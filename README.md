@@ -30,6 +30,7 @@
 
 ### 2) API TOKEN 
   A) Sign Up / Login on [Fast2Sms](www.fast2sms.com).
+  
   B) Find the [DEV-API](https://www.fast2sms.com/dashboard/dev-api) dashboard and copy the API Key into config.cfg file.
   
 ### 3) PHONE INDEX
